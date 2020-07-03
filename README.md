@@ -18,3 +18,7 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## ref Qiita
+
+[Nuxt.js × Composition API セットアップ](https://qiita.com/miiiii/items/718409ea0a4d3ce824f0)
