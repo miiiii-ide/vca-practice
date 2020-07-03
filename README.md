@@ -1,4 +1,4 @@
-# nuxt-sample2
+# vca-practice
 
 ## Build Setup
 
